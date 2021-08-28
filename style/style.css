@@ -1,0 +1,77 @@
+body{
+    background-color: black;
+}
+.profile{
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    
+}
+.profile2{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    padding: 30px 0;
+}
+.top-sect{
+    margin: 0 auto;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.social-media{
+    display: flex;
+    padding: 20px;
+}
+.collaborate{
+    display: flex;
+}
+.coll-1{
+    width: 400px;
+    padding-right: 50px;
+}
+.coll-2{
+    width: 400px;
+    padding-left: 50px;
+    padding-top: 24px;
+}
+.chat-now{
+    display: flex;
+}
+.port-images{
+    width: 300px;
+    height: 300px;
+    border-radius: 75px;
+    padding: 0 25px;
+}
+.portfolio{
+    padding-top: 120px;
+    margin: 0 auto;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.port-img{
+    display: flex;
+}
+.button-sect button {
+    background-color: black;
+    color: white;
+    padding: 24px 76px;
+    outline: solid #F7D7C8;
+    font-size: 20px;
+    
+    
+    
+}
+.sign-area{
+    padding-top: 140px;
+    padding-bottom: 120px;
+    display: flex;
+    justify-content: space-around;
+}
+.call{
+    display: flex;
+}
